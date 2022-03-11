@@ -1,3 +1,6 @@
+
+
+/*
 switch(false){
     case 3==7:
         console.log("funciona")
@@ -10,3 +13,4 @@ switch(false){
         console.log("tchau")
         break
 }
+*/
