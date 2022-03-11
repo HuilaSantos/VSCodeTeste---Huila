@@ -8,6 +8,8 @@
 Links para visitar:
 - https://code.visualstudio.com/docs                  | para ter uma visão geral do Visual Studio
 - https://pt-br.reactjs.org/docs/getting-started.html | para ter uma visão geral do React.js
+                                                      | javascript
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps
 
 GITHUB
     Email - huila.has@gmail.com
