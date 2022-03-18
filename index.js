@@ -1,3 +1,6 @@
+
+
+/*
 function createParagraph() {
     const para = document.createElement('p');
     para.textContent = 'You clicked the button!';
@@ -9,4 +12,4 @@ function createParagraph() {
   for (const button of buttons) {
     button.addEventListener('click', createParagraph);
   }
-  
+*/
