@@ -11,9 +11,3 @@ Links para visitar:
                                                       | javascript
 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps
 
-GITHUB
-    Email - huila.has@gmail.com
-    Senha - byncx9x8nnqkcck
-    Nome - HuilaSantos
-
-    Repositorio VisualStudioTeste - https://github.com/HuilaSantos/VisualStudioTeste.git
