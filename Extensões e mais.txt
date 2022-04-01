@@ -6,12 +6,7 @@
 - React.js (internet)
 
 Links para visitar:
-- https://code.visualstudio.com/docs                  | para ter uma visão geral do Visual Studio
-- https://pt-br.reactjs.org/docs/getting-started.html | para ter uma visão geral do React.js
-                                                      
-- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps | javascript
-- https://pt-br.reactjs.org/tutorial/tutorial.html                      | prático
-- https://pt-br.reactjs.org/docs/hello-world.html                       | introdução teórica
+
 
 GITHUB
     Email - huila.has@gmail.com
